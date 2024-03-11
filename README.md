@@ -1,4 +1,4 @@
-# CODSOFTtask5
+# Contact Book Project 
 Contact Book Project 
 This project provides many features like adding a contact, viewing the contact lists,searching,updating and deleting a contact.
 Contact Information: Store name, phone number, email, and address for each contact.
